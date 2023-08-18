@@ -1,0 +1,1 @@
+[https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-policy-remediation-with-deployment-scripts/ba-p/1594674](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-policy-remediation-with-deployment-scripts/ba-p/1594674)
